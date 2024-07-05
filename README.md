@@ -8,4 +8,4 @@ Hi Everyone 👋
 - Utilized JavaScript's fetch API function to efficiently retrieve weather data for the project
 
 watch Live
-💣 https://lnkd.in/gYQ9JTcm
+👀 https://lucky-syrniki-c65d1f.netlify.app
